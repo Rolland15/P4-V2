@@ -362,9 +362,15 @@ a:hover {
 }
 
 @media (min-width: 768px) {
+  .navbar .nav {
+    width: 30%;
+  }
+  .bloc .container {
+    padding-right: 0;
+  }
   .site-navigation {
     position: absolute;
-    top: 30%;
+    top: 50%;
     right: 20px;
     transform: translate(0, -50%);
     -webkit-transform: translateY(-50%);
