@@ -615,6 +615,8 @@ p {
   font-weight: 700;
 }
 .social {
+  display: flex;
+  flex-direction: row;
   max-width: 400px;
   margin: auto auto auto auto;
 }

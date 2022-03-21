@@ -1609,9 +1609,11 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-.row {
+.contact {
   display: flex;
   flex-direction: column;
+}
+.row {
   margin-right: -15px;
   margin-left: -15px;
 }
